@@ -78,8 +78,8 @@ def handle_file_upload():
 
 # --- Giao diện người dùng ---
 
-st.title("🤖 Smart OCR Chatbot")
-st.caption("Powered")
+st.title("🤖 SMART DIGIWORLD OCR AI")
+st.caption("Powered by Smart Digiworld")
 
 # Khởi tạo session state
 if "messages" not in st.session_state:
